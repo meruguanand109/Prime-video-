@@ -1,0 +1,26 @@
+.movie-item {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  outline: none;
+}
+.thumbnail-img {
+  height: 90%;
+  width: 95%;
+}
+.popup {
+  background-color: white;
+  color: black;
+  display: flex;
+  padding: 10px;
+  flex-direction: column;
+  border-radius: 10px;
+}
+.close-btn {
+  align-self: flex-end;
+  justify-self: flex-end;
+  border: 0px;
+  outline: 0px;
+  background-color: transparent;
+  margin-bottom: 10px;
+}
